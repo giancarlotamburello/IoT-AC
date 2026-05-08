@@ -56,7 +56,13 @@ The file `iot_ac_case.3mf` serves as both the electronics enclosure and a **dril
 
 ## Install firmware and software 
 
-To get the system running, you will need to set up both the hardware and the client application. Please refer to the specific documentation for each component:
+To get the system running, you will need to set up both the firmware in the ESP32 microcontroller and install the client application in a handheld device (i.e. Android smartphone). Please refer to the specific documentation for each component:
+
+### 🔌 Firmware
+
+Flash the ESP32 microcontroller.
+
+[**Read Firmware Documentation →**](https://github.com/le0o0oo/d-flux/blob/main/firmware/README.md)
 
 ### 📱 Client Application
 
@@ -64,11 +70,7 @@ Build and run the desktop/mobile app.
 
 [**Read Client Documentation →**](https://github.com/le0o0oo/d-flux/blob/main/client/README.md)
 
-### 🔌 Firmware
 
-Flash the ESP32 microcontroller.
-
-[**Read Firmware Documentation →**](https://github.com/le0o0oo/d-flux/blob/main/firmware/README.md)
 
 
 ## License

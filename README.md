@@ -31,7 +31,7 @@ We recommend using a **4-litre aluminium chamber** (e.g., a commercially availab
 
 ### 1. Preparation and Drilling
 The file `iot_ac_case.3mf` serves as both the electronics enclosure and a **drilling template**. Align the housing on the chamber lid to mark and drill the following four holes (Fig. 1c-2a):
-* **Servo Shaft Hole:** For the motor connection to the internal fan.
+* **Servo Shaft Hole:** For the motor connection to the internal fan (must be at the centre of the chamber).
 * **Fixation Holes (x2):** To secure the housing to the chamber body.
 * **Sensor Port:** A small rectangular opening for the 4-pin female Dupont connectors used by the SCD30 sensor.
 

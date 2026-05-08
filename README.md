@@ -22,7 +22,7 @@ We recommend using a **4-litre aluminium chamber** (e.g., a commercially availab
 
 <figure>
   <img src="Fig_1.jpg" alt="The IoT-AC chamber assembly" width="800">
-  <figcaption>Figure 1: Description of the IoT-AC 3D-printed housing.</figcaption>
+  <figcaption>Figure 1: Description of the IoT-AC 3D-printed housing parts.</figcaption>
 </figure>
 
 ---

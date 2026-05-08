@@ -48,7 +48,7 @@ The file `iot_ac_case.3mf` serves as both the electronics enclosure and a **dril
 * **Closure:** Close the housing lid and secure it with two self-tapping screws (Fig. 2h).
 
 <figure>
-  <img src="Fig_1.jpg" alt="The IoT-AC chamber assembly" width="800">
+  <img src="Fig_2.jpg" alt="The IoT-AC chamber assembly" width="800">
   <figcaption>Figure 2: Photos of the steps for assembling the IoT-AC.</figcaption>
 </figure>
 

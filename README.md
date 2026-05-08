@@ -52,5 +52,24 @@ The file `iot_ac_case.3mf` serves as both the electronics enclosure and a **dril
   <figcaption>Figure 2: Photos of the steps for assembling the IoT-AC.</figcaption>
 </figure>
 
+---
+
+## Install firmware and software 
+
+To get the system running, you will need to set up both the hardware and the client application. Please refer to the specific documentation for each component:
+
+### 📱 Client Application
+
+Build and run the desktop/mobile app.
+
+[**Read Client Documentation →**](https://github.com/le0o0oo/d-flux/blob/main/client/README.md)
+
+### 🔌 Firmware
+
+Flash the ESP32 microcontroller.
+
+[**Read Firmware Documentation →**](https://github.com/le0o0oo/d-flux/blob/main/firmware/README.md)
+
+
 ## License
 This project is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)**. You are free to share and adapt this material, provided appropriate credit is given.

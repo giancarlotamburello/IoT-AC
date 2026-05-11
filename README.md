@@ -1,8 +1,11 @@
+
+<a href="https://www.ingv.it/" target="_blank" rel="noopener noreferrer">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="INGV_LOGO_STESO_SX_gray.svg">
   <source media="(prefers-color-scheme: light)" srcset="INGV_LOGO_STESO_SX.svg">
   <img alt="My SVG" src=""INGV_LOGO_STESO_SX.svg" width="600" align="left">
 </picture>
+</a>
 
 
 <br></br>

@@ -25,6 +25,7 @@ The **IoT-AC** is designed for environmental monitoring, with a focus on soil an
 - **Microcontroller:** [ESP32](https://www.espressif.com/en/products/socs/esp32) (Dual-core, Wi-Fi/Bluetooth enabled).
 - **CO2 Sensor:** [Sensirion SCD30](https://sensirion.com/products/catalog/SCD30) – A high-precision NDIR (Non-Dispersive Infrared) module.
 - **Fan Motor:** Parallax Inc. bidirectional continuous rotation servomotor (0-50 RPM, 4.6 V).
+- **Dupont jumper wires:** 10cm long Dupont jumper wires Female to Female and Male to Female.
 
 ### Chamber Specifications
 

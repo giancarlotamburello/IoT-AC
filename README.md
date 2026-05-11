@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="INGV_LOGO_STESO_SX_gray.svg">
   <source media="(prefers-color-scheme: light)" srcset="INGV_LOGO_STESO_SX.svg">
-  <img alt="Logo" src="INGV_LOGO_STESO_SX.svg" width="600" align="left" target="_blank" rel="noopener noreferrer">
+  <img alt="Logo" src="INGV_LOGO_STESO_SX.svg" width="600" align="left">
 </picture>
 </a>
 
@@ -10,7 +10,7 @@
 <br></br>
 <br></br>
 
-# IoT-AC: Internet of Things - Accumulation Chamber
+# IoT-AC: Internet of Things - Accumulation Chamber Assembly Guide
 
 This project provides the documentation and source files to build a low-cost, IoT-based accumulation chamber (**IoT-AC**) for measuring diffuse $CO_2$ fluxes.
 

@@ -1,5 +1,5 @@
 
-<a href="https://www.ingv.it/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.ingv.it/" target="_blank">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="INGV_LOGO_STESO_SX_gray.svg">
   <source media="(prefers-color-scheme: light)" srcset="INGV_LOGO_STESO_SX.svg">

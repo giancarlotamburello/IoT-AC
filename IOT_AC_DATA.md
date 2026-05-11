@@ -39,4 +39,4 @@ with the following fields:
 
 ---
 
-### 📥 [Download Dataset (xlsx)](https://github.com/giancarlotamburello/IoT-AC/blob/main/iot_ac_calibration_fieldwork.xlsx?raw=true)
+### 📥 [Download Dataset (xlsx)](https://github.com/giancarlotamburello/IoT-AC/raw/refs/heads/main/iot_ac_calibration_fieldwork.xlsx)

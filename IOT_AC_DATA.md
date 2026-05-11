@@ -2,8 +2,8 @@
 
 The results of a laboratory test and fieldwork on the Nea Kameni volcano (Santorini) for a fully operational [IoT-AC](https://github.com/giancarlotamburello/IoT-AC/tree/main) system are available [here](https://github.com/giancarlotamburello/IoT-AC/blob/main/iot_ac_calibration_fieldwork.xlsx).
 The spreadsheet file contains three sheets (`Calibration_data`, `Calibration_raw_data`, `Nea_Kameni_data`):
-* Sheet 1 (`Calibration_data`) contains calibration data, including simulated fluxes, the measured rate of CO2 concentration change observed by the accumulation chamber, and the resulting recalculated measured fluxes.
-* Sheet 2 (`Calibration_raw_data`) contains the raw CO2 concentration time-series data for each individual measurement trial conducted during the calibration process.
+* Sheet 1 (`Calibration_data`) contains calibration data, including simulated fluxes, the measured rate of CO<sub>2</sub> concentration change observed by the accumulation chamber, and the resulting recalculated measured fluxes.
+* Sheet 2 (`Calibration_raw_data`) contains the raw CO<sub>2</sub> concentration time-series data for each individual measurement trial conducted during the calibration process.
 * Sheet 3 (`Nea_Kameni_data`) contains diffuse flux data and geographic coordinates from fieldwork carried out at the Nea Kameni volcano in Santorini.
 
 with the following fields:

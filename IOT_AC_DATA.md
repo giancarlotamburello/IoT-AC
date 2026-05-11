@@ -1,3 +1,8 @@
+<img src="INGV_LOGO_STESO_SX.svg" alt="Alt text" width="600" align="left">
+<br></br>
+<br></br>
+<br></br>
+
 # IoT-AC: calibration and fieldwork data
 
 The results of a laboratory test and fieldwork on the Nea Kameni volcano (Santorini) for a fully operational [IoT-AC](https://github.com/giancarlotamburello/IoT-AC/tree/main) system are available [here](https://github.com/giancarlotamburello/IoT-AC/blob/main/iot_ac_calibration_fieldwork.xlsx).

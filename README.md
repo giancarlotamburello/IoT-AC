@@ -12,7 +12,7 @@
 
 # IoT-AC: Internet of Things - Accumulation Chamber Assembly Guide
 
-This project provides the documentation and source files to build a low-cost, IoT-based accumulation chamber (**IoT-AC**) for measuring diffuse $CO_2$ fluxes.
+This project provides the documentation and source files to build a low-cost, IoT-based accumulation chamber (**IoT-AC**) for measuring diffuse CO<sub>2</sub> fluxes.
 
 ## Overview
 

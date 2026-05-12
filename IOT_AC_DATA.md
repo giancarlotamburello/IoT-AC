@@ -12,7 +12,7 @@
 
 # IoT-AC: Internet of Things - Accumulation Chamber calibration and fieldwork data
 
-The results of a laboratory test and fieldwork on the Nea Kameni volcano (Santorini) for a fully operational [IoT-AC](https://github.com/giancarlotamburello/IoT-AC/tree/main) system are available [here](https://github.com/giancarlotamburello/IoT-AC/blob/main/iot_ac_calibration_fieldwork.xlsx).
+Comprehensive results from laboratory evaluations and field deployments at the Nea Kameni volcano (Santorini) are provided at the bottom of this page, demonstrating the [IoT-AC](https://github.com/giancarlotamburello/IoT-AC/tree/main) system's full operational capacity.
 The spreadsheet file contains three sheets (`Calibration_data`, `Calibration_raw_data`, `Nea_Kameni_data`):
 * Sheet 1 (`Calibration_data`) contains calibration data, including simulated fluxes, the measured rate of CO<sub>2</sub> concentration change observed by the accumulation chamber, and the resulting recalculated measured fluxes.
 * Sheet 2 (`Calibration_raw_data`) contains the raw CO<sub>2</sub> concentration time-series data for each individual measurement trial conducted during the calibration process.

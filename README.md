@@ -16,7 +16,7 @@ This project provides the documentation and source files to build a low-cost, Io
 
 ## Overview
 
-The **IoT-AC** is designed for environmental monitoring, with a focus on soil and volcanic degassing. The system leverages an ESP32 microcontroller to manage gas sensing and internal air homogenization, offering a portable, cost-effective alternative to professional scientific instrumentation.
+The **IoT-AC** is designed for environmental monitoring, with a focus on soil and volcanic degassing. The system leverages an ESP32 microcontroller to manage gas sensing and internal air homogenization, offering a portable, cost-effective alternative to professional scientific instrumentation. Performance was evaluated across two stages: controlled laboratory characterisation and field deployment within the active crater of Nea Kameni (Santorini). The resulting datasets are available [here](IOT_AC_DATA.md).
 
 ## Hardware Components
 

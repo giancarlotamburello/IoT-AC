@@ -58,7 +58,7 @@ with the following fields:
 The data in this repository is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 **Please attribute this work as:**
-> Tamburello G., Cardellini C., Rouwet D., Todesco M. (2026). A low-cost IoT-based accumulation chamber for measuring diffuse CO2 fluxes: calibration and field validation at Nea Kameni volcano (Santorini) [Dataset]. Istituto Nazionale di Geofisica e Vulcanologia (INGV). https://doi.org/10.13127/iotac.1.0
+> Tamburello G., Cardellini C., Rouwet D., Todesco M. (2026). A low-cost IoT-based accumulation chamber for measuring diffuse CO2 fluxes: calibration and field validation at Nea Kameni volcano (Santorini) [Dataset]. Istituto Nazionale di Geofisica e Vulcanologia (INGV). https://doi.org/10.13127/santorini/iot-accumchamb.1
 
 
 

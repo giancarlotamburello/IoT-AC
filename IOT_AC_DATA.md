@@ -21,24 +21,24 @@ The spreadsheet file contains three sheets (`Calibration_data`, `Calibration_raw
 with the following fields:
 
 * `Calibration_data`
-  * CO<sub>2</sub> concentration	(% mol) -	CO<sub>2</sub> concentration of gas standard used for simulating the diffuse flux
-  * Flux reading 1 (mL·min<sup>-1</sup>) -	Gas flux reading 1
-  * Flux reading 2 (mL·min<sup>-1</sup>) -	Gas flux reading 2
-  * Flux reading 3 (mL·min<sup>-1</sup>) -	Gas flux reading 3
-  * Slope 1	(ppm·s<sup>-1</sup>) -	Measurement 1 of CO<sub>2</sub> concentration rate
-  * Slope 2	(ppm·s<sup>-1</sup>) -	Measurement 2 of CO<sub>2</sub> concentration rate
-  * Slope 3	(ppm·s<sup>-1</sup>) -	Measurement 3 of CO<sub>2</sub> concentration rate
-  * Slope 4	(ppm·s<sup>-1</sup>) -	Measurement 4 of CO<sub>2</sub> concentration rate
+  * CO<sub>2</sub> concentration	(% mol) - CO<sub>2</sub> concentration of gas standard used for simulating the diffuse flux
+  * Flux reading 1 (mL·min<sup>-1</sup>) - Gas flux reading 1
+  * Flux reading 2 (mL·min<sup>-1</sup>) - Gas flux reading 2
+  * Flux reading 3 (mL·min<sup>-1</sup>) - Gas flux reading 3
+  * Slope 1	(ppm·s<sup>-1</sup>) - Measurement 1 of CO<sub>2</sub> concentration rate
+  * Slope 2	(ppm·s<sup>-1</sup>) - Measurement 2 of CO<sub>2</sub> concentration rate
+  * Slope 3	(ppm·s<sup>-1</sup>) - Measurement 3 of CO<sub>2</sub> concentration rate
+  * Slope 4	(ppm·s<sup>-1</sup>) - Measurement 4 of CO<sub>2</sub> concentration rate
   * Mean slope	(ppm·s<sup>-1</sup>) -	Average of the 4 measured CO<sub>2</sub> concentration rate
   * Diffuse flux	(g·m<sup>-2</sup>·d<sup>-1</sup>) -	Simulated diffuse flux calculated from concentration and average gas flux reading
   * Equation 1	(g·m<sup>-2</sup>·d<sup>-1</sup>) -	Recalculated diffuse flux using Equation 1
   * Equation 2	(g·m<sup>-2</sup>·d<sup>-1</sup>) -	Recalculated diffuse flux using Equation 2
 * `Calibration_raw_data`
-  * Timestamp	Number - Integer	-	Timestamp in milliseconds inside the AC during measurement
-  * Date	-	Timestring inside the AC during measurement
-  * CO<sub>2</sub> (ppm)	Number - CO<sub>2</sub> concentration inside the AC during measurement
-  * Temperature (°C)	Boolean	-	Temperature inside the AC during measurement
-  * Humidity (%)	- Relative humidity inside the AC during measurement
+  * Timestamp	-	Timestamp in milliseconds inside the AC during measurement
+  * Date - Timestring inside the AC during measurement
+  * CO<sub>2</sub> (ppm) - CO<sub>2</sub> concentration inside the AC during measurement
+  * Temperature (°C) -	Temperature inside the AC during measurement
+  * Humidity (%) - Relative humidity inside the AC during measurement
 * `Nea_Kameni_data`
   * time	-	Timestring at the beginning of the measurement
   * longitude	-	Longitude in decimal degree WGS84 of the measurement
